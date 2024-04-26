@@ -8,6 +8,9 @@ Contém alguns algoritmos de Machine Leaning e Meu Projeto do TCC de Data Scienc
 ![image](https://github.com/DavidFranciscoDSA/Machine-Leaning/assets/167797737/f8e3d0cc-c735-4860-9163-4e52085fd09f)
 ![image](https://github.com/DavidFranciscoDSA/Machine-Leaning/assets/167797737/d584f5c5-266d-4d18-8bd2-576fa6974a63)
 ![image](https://github.com/DavidFranciscoDSA/Machine-Leaning/assets/167797737/8535d5b6-a779-4037-9fba-aa79ca50b23e)
+![image](https://github.com/DavidFranciscoDSA/Machine-Leaning/assets/167797737/fc556ef3-36e2-4968-98e4-2cea7142795b)
+
+
 
 
 
