@@ -15,13 +15,13 @@ Contém alguns algoritmos de Machine Leaning e Meu Projeto do TCC de Data Scienc
 
 <div style="display: flex; justify-content: space-around;">
     <a href="https://github.com/DavidFranciscoDSA/Machine-Leaning" target="_blank">
-        <img src="https://github.com/DavidFranciscoDSA/Machine-Leaning/assets/167797737/651bfc37-ff20-467d-b5bb-c6cb1b205fc8" style="width: 180px; height: 320px;">
+        <img src="https://github.com/DavidFranciscoDSA/Machine-Leaning/assets/167797737/651bfc37-ff20-467d-b5bb-c6cb1b205fc8" style="width: 2100px; height: 320px;">
     </a>
     <a href="https://github.com/DavidFranciscoDSA/Machine-Leaning" target="_blank">
-        <img src="https://github.com/DavidFranciscoDSA/Machine-Leaning/assets/167797737/f0489932-86eb-4d4c-b32a-492882ad28c8" style="width: 278px; height: 200px;">
+        <img src="https://github.com/DavidFranciscoDSA/Machine-Leaning/assets/167797737/f0489932-86eb-4d4c-b32a-492882ad28c8" style="width: 2100px; height: 320px;">
     </a>
     <a href="https://github.com/DavidFranciscoDSA/Machine-Leaning" target="_blank">
-        <img src="https://github.com/DavidFranciscoDSA/Machine-Leaning/assets/167797737/7a7336b4-6c67-40be-8d9b-3f0f5b3d50de" style="width: 278px; height: 200px;">
+        <img src="https://github.com/DavidFranciscoDSA/Machine-Leaning/assets/167797737/7a7336b4-6c67-40be-8d9b-3f0f5b3d50de" style="width: 2100px; height: 320px">
     </a>
 </div>
 
